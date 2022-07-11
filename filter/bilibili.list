@@ -1,12 +1,12 @@
 # > Bilibili
-USER-AGENT,bili*,bilibili
-HOST-SUFFIX,acg.tv,bilibili
-HOST-SUFFIX,acgvideo.com,bilibili
-HOST-SUFFIX,b23.tv,bilibili
-HOST-SUFFIX,bilibili.com,bilibili
-HOST-SUFFIX,bilibili.tv,bilibili
-HOST-SUFFIX,biliapi.net,bilibili
-HOST-SUFFIX,biliapi.com,bilibili
-HOST-SUFFIX,bilivideo.com,bilibili
-HOST-SUFFIX,hdslb.com,bilibili
-HOST,upos-hz-mirrorakam.akamaized.net,bilibili
+USER-AGENT,bili*,Bilibili
+HOST-SUFFIX,acg.tv,Bilibili
+HOST-SUFFIX,acgvideo.com,Bilibili
+HOST-SUFFIX,b23.tv,Bilibili
+HOST-SUFFIX,bilibili.com,Bilibili
+HOST-SUFFIX,bilibili.tv,Bilibili
+HOST-SUFFIX,biliapi.net,Bilibili
+HOST-SUFFIX,biliapi.com,Bilibili
+HOST-SUFFIX,bilivideo.com,Bilibili
+HOST-SUFFIX,hdslb.com,Bilibili
+HOST,upos-hz-mirrorakam.akamaized.net,Bilibili
